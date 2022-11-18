@@ -1,0 +1,15 @@
+C:\code\TaxPayer\TaxPayer\bin\Debug\net6.0\TaxPayer.exe
+C:\code\TaxPayer\TaxPayer\bin\Debug\net6.0\TaxPayer.deps.json
+C:\code\TaxPayer\TaxPayer\bin\Debug\net6.0\TaxPayer.runtimeconfig.json
+C:\code\TaxPayer\TaxPayer\bin\Debug\net6.0\TaxPayer.dll
+C:\code\TaxPayer\TaxPayer\bin\Debug\net6.0\TaxPayer.pdb
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.csproj.AssemblyReference.cache
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.AssemblyInfoInputs.cache
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.AssemblyInfo.cs
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.csproj.CoreCompileInputs.cache
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.dll
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\refint\TaxPayer.dll
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.pdb
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\TaxPayer.genruntimeconfig.cache
+C:\code\TaxPayer\TaxPayer\obj\Debug\net6.0\ref\TaxPayer.dll
